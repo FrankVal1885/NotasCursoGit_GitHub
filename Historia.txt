@@ -6,3 +6,5 @@ Git and GitHub, cambio.
 Resulta que actualice el nombre del usuario. 
 
 Actualizo una nueva linea. 
+
+Nuevo parrafo para ver el comando ESC - Shif+z+z
